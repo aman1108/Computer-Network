@@ -1,0 +1,9 @@
+There are 2 java files: Server.java and Client.java. 
+
+Compile the code using the following lines:
+javac Client.java
+javac Server.java
+
+Run the code:
+java Server 
+java Client 
