@@ -1,0 +1,14 @@
+There are 2 java files: Server.java and Client.java. 
+A chat program between Server and Client.
+
+Compile the code using the following lines:
+javac clientchat.java
+javac serverchat.java
+
+Run the code:
+java serverchat 127.0.0.1 8080
+java clientchat 127.0.0.1 8080
+
+// Put yours computer IP
+
+

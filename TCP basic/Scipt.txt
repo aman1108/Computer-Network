@@ -1,0 +1,12 @@
+There are 2 java files: Server.java and Client.java. 
+Client send current time stamp to Servera.
+
+Compile the code using the following lines:
+javac TCPServer.java
+javac TCPClient.java
+
+Run the code:
+java TCPServer 
+java TCPClient 
+
+

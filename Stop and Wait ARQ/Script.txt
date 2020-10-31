@@ -1,0 +1,12 @@
+There are 2 java files: Server.java and Client.java. 
+Implementation of Stop and Wait. It has few problem in implementation which is recovered in next lab.
+
+Compile the code using the following lines:
+javac Client.java
+javac Server.java
+
+Run the code:
+java Server
+java Client
+
+

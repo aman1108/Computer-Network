@@ -1,0 +1,12 @@
+There are 2 java files: Server.java and Client.java. 
+Client send hello work to Server in this Code.
+
+Compile the code using the following lines:
+javac Server.java
+javac Client.java
+
+Run the code:
+java Server 
+java Client 
+
+

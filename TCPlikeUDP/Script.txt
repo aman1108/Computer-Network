@@ -1,0 +1,13 @@
+There are 2 java files: Server.java and Client.java. 
+Reliable File Transfer
+
+Compile the code using the following lines:
+javac Receiver.java
+javac Sender.java
+
+Run the code:
+java Sender
+java Receiver
+
+
+//Save the file IIITPune.txt in the same directory as of Client.java

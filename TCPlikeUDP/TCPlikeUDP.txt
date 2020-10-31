@@ -1,0 +1,16 @@
+Reliable version of UDP by implementing TCP like functionalities over a UDP connection.
+
+We have done it by 
+1) Implementing the following over a stream of UDP packets; 
+2) Implementating same as in the TCP (Reno): 
+	a. Acknowledgement: Both single packet and cumulative ack. 
+	b. Sequence number: same as in TCP 
+	c. Retransmissions 
+	d. Detecting duplicates and discarding them. 
+	e. Congestion control (TCP Reno) 
+	f. Flow Control
+
+3) Also have to develop other necessary programs that will let us test these functionalities. 
+This may require the following (and some more): 
+	a. A UDP client and server 
+	b. a mechanism to generate a large number of UDP packets that act as both packet or acknowledgements depending on the need. c. a random way of deleting some packets so that you can simulate/show loss or delayed arrival.
